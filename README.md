@@ -37,7 +37,12 @@ cd KandinskyV2-Discord
 pip install -r requirements.txt
 ```
 
-5. Run the Command ```/Kandinsky``` to Generate Images!
+5. Then run the bot
+```python
+python main.py
+```
+
+7. Run the Command ```/Kandinsky``` to Generate Images!
 
 
 
