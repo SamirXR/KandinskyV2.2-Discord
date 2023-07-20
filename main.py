@@ -21,10 +21,6 @@ async def on_ready():                   # event that will let you know when bot 
     print(f"Logged in as {bot.user}")
     await bot.change_presence(activity=discord.Activity(type=discord.ActivityType.listening, name="Your Commands!!!"))
 
-sd = bot.create_group(
-    'sd', 'Commands related to Stable Diffusion'    #group for sd commands
-)
-
 # Kandinsky Command!
 @bot.slash_command(name='kandinsky', description="Generates Images by Kandinsky 2.2 (Best)")
 @option("prompt", description="Enter prompt(describe image)")
