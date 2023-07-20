@@ -2,7 +2,7 @@
 
 Kandinsky-V2 on Discord and Unlimited For Free!!
 
-Join [Discord](https://discord.gg/P9gGZaXWGR) for any Assist/Issues 
+Join [Discord Server](https://discord.gg/P9gGZaXWGR) for any Assist/Issues 
 
 
 # Prerequisites
