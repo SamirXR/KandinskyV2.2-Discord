@@ -1,6 +1,6 @@
-# KandinskyV2-Discord
+# KandinskyV2.2-Discord
 
-Kandinsky-V2 on Discord and Unlimited For Free!!
+Kandinsky-V2.2 on Discord and Unlimited For Free!!
 
 Join [Discord Server](https://discord.gg/P9gGZaXWGR) for any Assist/Issues 
 
